@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1679330496 source:d:\programming languages\c++\clienttimemangement\src\client.cpp
+	"Client.h"
+
+1678211708 d:\programming languages\c++\clienttimemangement\include\client.h
+	<string>
+	<iostream>
+
+1680821832 source:d:\programming languages\c++\clienttimemangement\src\project.cpp
+	"Project.h"
+
+1680821832 d:\programming languages\c++\clienttimemangement\include\project.h
+	<string>
+	<iostream>
+
+1679330604 source:d:\programming languages\c++\clienttimemangement\src\timesheet.cpp
+	"TimeSheet.h"
+	<cmath>
+
+1678214003 d:\programming languages\c++\clienttimemangement\include\timesheet.h
+	<iostream>
+
+1680821746 source:d:\programming languages\c++\clienttimemangement\main.cpp
+	<iostream>
+	<string>
+	"Client.h"
+	"Project.h"
+	"TimeSheet.h"
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
